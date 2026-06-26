@@ -1,0 +1,8 @@
+Title: Granting Access to Shared Drives or Folders
+
+If a user requests access to a shared drive, folder, or team resource:
+1. Confirm the user's full name, employee ID, and which team or department they belong to.
+2. Verify with the user's manager or team lead that they should have this access.
+3. Do not grant access without manager confirmation for sensitive or restricted folders.
+4. Once approved, grant the minimum level of access needed (read-only vs edit, if applicable).
+5. Document the access change with date, approver name, and reason.

@@ -1,0 +1,10 @@
+Title: Handling Software Crashes (e.g. Excel, Word, Browser)
+
+If a user reports a program crashing or freezing:
+1. Ask which specific program is crashing and what they were doing when it happened.
+2. Ask the user to close and reopen the program.
+3. Check if the program needs an update; recommend updating to the latest version.
+4. If using Microsoft Office, suggest opening the program in Safe Mode to rule out faulty add-ins.
+5. Check available disk space on the user's device; low disk space can cause crashes.
+6. If the issue is isolated to one large file, suggest checking if the file itself is corrupted.
+7. Escalate to software support if crashes continue after these steps.

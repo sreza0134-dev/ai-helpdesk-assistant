@@ -1,0 +1,9 @@
+Title: Printer Troubleshooting Guide
+
+If a user reports a printer not working or showing an error code:
+1. Ask for the exact error code displayed on the printer screen, if any.
+2. Check for paper jams by opening all printer trays and covers.
+3. Power cycle the printer: turn it off, wait 10 seconds, turn it back on.
+4. Check that the printer has paper and toner/ink.
+5. Confirm the printer is connected to the network (check WiFi or ethernet connection on the printer's display).
+6. If error persists after these steps, escalate to hardware support for possible part replacement.

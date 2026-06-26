@@ -1,0 +1,8 @@
+Title: Troubleshooting WiFi Connection Issues
+
+If a user reports WiFi disconnecting or not connecting:
+1. Ask the user to restart their device and the WiFi router/modem.
+2. Check if other devices on the same network are also affected. If yes, this is likely a router or ISP issue, not the device.
+3. Ask the user to forget the WiFi network on their device and reconnect, re-entering the password.
+4. Check if the device is too far from the router, causing signal weakness.
+5. If the issue persists after these steps, escalate to network admin to check router logs and firmware version.
